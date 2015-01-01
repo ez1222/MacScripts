@@ -28,4 +28,5 @@ The image based Services expect the underlying bash command scripts to be in ~/b
 
 To use, select some text in a browser or anywhere on a Mac where text is selectable. Right-click on the text and choose one of the Services from the Services menu.
 
-- Translate Czech to English - Select some text in a browser or anywhere there is text.  Google Translate from Czech to English and show the results in a popup view.
+- Translate Czech to English - Google Translate selected text from Czech to English and show the results in a popup view.
+- Translate English to Czech - Google Translate selected text from English to Czech and show the results in a popup view.
